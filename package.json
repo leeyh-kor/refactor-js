@@ -5,6 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "mocha": "^9.2.2"
+    "mocha": "^9.2.2",
+    "wish": "^1.0.1"
   }
 }
